@@ -1,0 +1,28 @@
+.main-footer{
+    height: 100%;
+}
+
+
+.footer{
+    border: 2px solid rgb(90, 21, 21);
+    
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 50px;
+    /* padding-right: 30px; */
+}
+.footer:hover{
+    background-color: whitesmoke;
+}
+.footer h2 {
+    color: rgb(19, 7, 7);
+}
+.footer h3 {
+    color: rgb(19, 7, 7);
+}
+
+.fotter-para{
+    margin-left: 60px;
+    font-size: 22px;
+    margin-top: 70px;
+}

@@ -1,0 +1,15 @@
+
+.desain{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);  
+    /* background-color: blue; */
+    margin: auto;
+    width: 90%;
+    height: auto;
+    
+}
+
+.footer-container{
+    background-color: aquamarine;
+    height: auto;
+}

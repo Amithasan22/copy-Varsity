@@ -1,0 +1,37 @@
+
+.headar-div{
+    /* background-color: aquamarine; */
+    border: 1px solid rgb(226, 218, 218);
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    transition: .5s;
+}
+.headar-div:hover{
+    font-size: 23px;
+
+    Transform: scale(1.1),
+   
+}
+
+ 
+
+
+.headar-div h1{
+  color:  rgb(7, 119, 184)  
+}
+.headar-div h2 span{
+color: rgb(0, 138, 126);
+ 
+}
+.headar-div h2 {
+color: red;
+}
+
+.headar-div p{
+    font-size: 20px;
+}
+.headar-div a{
+    text-decoration: none;
+}
